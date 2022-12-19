@@ -1,0 +1,12 @@
+{
+    "search.exclude": {
+        "**/.git": true,
+        "**/venv": true,
+        "**/data": true,
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/venv": true,
+        "**/data": true,
+    },
+}
